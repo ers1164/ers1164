@@ -1,4 +1,8 @@
 ## Hi there 👋
+# hello 
+< list 1 
+< list 2
+# about me 
 
 <!--
 **ers1164/ers1164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
